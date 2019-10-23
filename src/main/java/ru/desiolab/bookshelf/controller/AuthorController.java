@@ -1,4 +1,4 @@
-package ru.desiolab.authorshelf.controller;
+package ru.desiolab.bookshelf.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.access.prepost.PreAuthorize;
